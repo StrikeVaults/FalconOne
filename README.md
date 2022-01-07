@@ -1,6 +1,6 @@
 # FalconOne (v.0.1)
 
-FalconOne is a solution deployed and updated on daily basis to assist Law Enforcement Agencies prevent terror and crime. By using multiple advanced tools and stealth strategies, FalconOne's community is focused on making its usage friendly and fast.
+FalconOne is an Open Source solution deployed and updated on daily basis to assist Law Enforcement Agencies prevent terror and crime. By using multiple advanced tools and stealth strategies, FalconOne's community is focused on making its usage friendly and fast.
 
 ## Contents
 

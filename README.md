@@ -8,7 +8,7 @@ FalconOne is an Open Source solution deployed and updated on daily basis to assi
 2. [Scenarios](#1-Functions-Overview)
 3. [Tool Overview](#3-Tool-Overview)
 4. [Prerequisites](#4-Prerequisites)
-5. [Installation/Setup](#5-Installation-Setup)
+5. [Installation/Setup](#5-InstallationSetup)
 6. [Usage](#6-Usage)
 7. [Community](#7-Community)
 8. [User Terms](#8-user-Terms)

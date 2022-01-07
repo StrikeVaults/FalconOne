@@ -75,9 +75,9 @@ styles/
 
 ## 5. Installation/Setup
 
-5.1. Upload the Zip file on your Web Server Public directory
-5.2. Unzip uploaded file
-5.3. Customize index.html and Style according to your Social Engineering Attack
+- Upload the Zip file on your Web Server Public directory
+- Unzip uploaded file
+- Customize index.html and Style according to your Social Engineering Attack
 
 
 ## 6. Usage

@@ -41,7 +41,7 @@ FalconOne is an Open Source solution deployed and updated on daily basis to assi
 
 ## 3. Tool Overview
 
-FalconOne is based on PHP functions that exploits multiple browser's vulnerabilities via disguised HTML and CSS templates.
+FalconOne is based on PHP functions that collects and triggers multiple browser's information functionalities via disguised HTML and CSS templates.
 FalconOne is coded as explained below:
 
 ### 3.1. Landing Page(s)

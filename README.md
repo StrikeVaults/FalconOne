@@ -20,18 +20,15 @@ FalconOne is an Open Source solution deployed and updated on daily basis to assi
 
 ### 1.1. Actual:
 
-- Target Accurate Location
-- Target Public IP Address
-- Target Device Model
-- Target Browser Model and Version
-- Target Operating System and Version
-- Target User-Agent Details (e.g. Screen Resolution)
-
-### 1.2. In Progress:
-
-- Target Webcam Activation
-- Target Microphone Activation
-- Target Screen Screenshot
+[x] Target Accurate Location (via Google API)
+[x] Target Public IP Address
+[x] Target Device Model
+[x] Target Browser Model and Version
+[x] Target Operating System and Version
+[x] Target User-Agent Details (e.g. Screen Resolution)
+[ ] Target Webcam Activation
+[ ] Target Microphone Activation
+[ ] Target Screen Screenshot
 
 
 ## 2. Scenarios
@@ -82,8 +79,8 @@ styles/
 
 ## 6. Usage
 
-Once deployed, wait for the target to interact with the landing page functions.
-Once the Target interacts with the Landing page functions, locations should be stored in info.txt and other information in log.txt
+Once deployed, wait for the target to interact with the landing page functions such as buttons, links, images and popups.
+Once the Target interacts with the Landing page function(s), location(s) should be stored in info.txt and other information in log.txt.
 
 
 ## 7. Cummnity

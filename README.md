@@ -6,14 +6,14 @@ FalconOne is an Open Source solution deployed and updated on daily basis to assi
 
 1. [Functions Overview](#1-functions-overview)
 2. [Scenarios](#1-Functions-Overview)
-3. [Tool Overview](3-Tool-Overview)
-4. Prerequisites
-5. Installation/Setup
-6. Usage
-7. Community
-8. User
-9. Releases
-10. Templates
+3. [Tool Overview](#3-Tool-Overview)
+4. [Prerequisites](#4-Prerequisites)
+5. [Installation/Setup](#5-Installation/Setup)
+6. [Usage](#Usage)
+7. [Community](#Community)
+8. [User Terms](#user-Terms)
+9. [Releases](#Releases)
+10. [Templates](#Templates)
 
 
 ## 1. Functions Overview
@@ -86,7 +86,7 @@ Once the Target interacts with the Landing page function(s), location(s) should 
 
 ... In Progress
 
-## 8. User
+## 8. User Terms
 
 ... In Progress
 

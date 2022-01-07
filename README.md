@@ -85,3 +85,19 @@ styles/
 Once deployed, wait for the target to interact with the landing page functions.
 Once the Target interacts with the Landing page functions, locations should be stored in info.txt and other information in log.txt
 
+
+## 7. Cummnity
+
+... In Progress
+
+## 8. User
+
+... In Progress
+
+## 9. Releases
+
+- January 8th, 2022: FalconOne v.0.1
+
+## 10. Templates
+
+... In Progress

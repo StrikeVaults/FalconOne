@@ -50,10 +50,10 @@ FalconOne is coded as explained below:
 
 ### 3.2. Main Style
 
-- styles/
-- - /footer.css
-- - /join.css
-- - /main.css
+styles/
+- /footer.css
+- /join.css
+- /main.css
 
 ### 3.3. PHP Functions
 

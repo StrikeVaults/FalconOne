@@ -5,14 +5,15 @@ FalconOne is a solution deployed and updated on daily basis to assist Law Enforc
 ## Contents
 
 1. Functions Overview
-3. Scenarios
-4. Tool Overview
-5. Prerequisite
-6. Installation/Setup
-7. Usage
-8. Community
-9. User
-10. Releases
+2. Scenarios
+3. Tool Overview
+4. Prerequisites
+5. Installation/Setup
+6. Usage
+7. Community
+8. User
+9. Releases
+10. Templates
 
 
 ## 1. Functions Overview
@@ -26,7 +27,7 @@ FalconOne is a solution deployed and updated on daily basis to assist Law Enforc
 - Target Operating System and Version
 - Target User-Agent Details (e.g. Screen Resolution)
 
-### 1.2. In Progress
+### 1.2. In Progress:
 
 - Target Webcam Activation
 - Target Microphone Activation
@@ -36,3 +37,51 @@ FalconOne is a solution deployed and updated on daily basis to assist Law Enforc
 ## 2. Scenarios
 
 ... In Progress
+
+
+## 3. Tool Overview
+
+FalconOne is based on PHP functions that exploits multiple browser's vulnerabilities via disguised HTML and CSS templates.
+FalconOne is coded as explained below:
+
+### 3.1. Landing Page(s)
+
+- index.html (landing page)
+
+### 3.2. Main Style
+
+- styles/
+- - /footer.css
+- - /join.css
+- - /main.css
+
+### 3.3. PHP Functions
+
+- forward.php
+
+### 3.4. Loggers
+
+- info.txt (locations via Google API)
+- log.txt (Target IP address, device, browser, etc.)
+
+
+## 4. Prerequisites
+
+- Apache or Nginx Server
+- IP Address or a Tunnel (e.g. Ngrok)
+- Domain Name (Recommended)
+- SSL Certificate (for a secure look)
+
+
+## 5. Installation/Setup
+
+a. Upload the Zip file on your Web Server Public directory
+b. Unzip uploaded file
+c. Customize index.html and Style according to your Social Engineering Attack
+
+
+## 6. Usage
+
+Once deployed, wait for the target to interact with the landing page functions.
+Once the Target interacts with the Landing page functions, locations should be stored in info.txt and other information in log.txt
+

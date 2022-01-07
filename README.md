@@ -20,15 +20,15 @@ FalconOne is an Open Source solution deployed and updated on daily basis to assi
 
 ### 1.1. Actual:
 
-[x] Target Accurate Location (via Google API)
-[x] Target Public IP Address
-[x] Target Device Model
-[x] Target Browser Model and Version
-[x] Target Operating System and Version
-[x] Target User-Agent Details (e.g. Screen Resolution)
-[ ] Target Webcam Activation
-[ ] Target Microphone Activation
-[ ] Target Screen Screenshot
+- [x] Target Accurate Location (via Google API)
+- [x] Target Public IP Address
+- [x] Target Device Model
+- [x] Target Browser Model and Version
+- [x] Target Operating System and Version
+- [x] Target User-Agent Details (e.g. Screen Resolution)
+- [ ] Target Webcam Activation
+- [ ] Target Microphone Activation
+- [ ] Target Screen Screenshot
 
 
 ## 2. Scenarios

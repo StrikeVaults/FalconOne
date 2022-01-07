@@ -4,7 +4,7 @@ FalconOne is an Open Source solution deployed and updated on daily basis to assi
 
 ## Contents
 
-1. Functions Overview
+1. [Functions Overview](/FalconOne#1-functions-overview)
 2. Scenarios
 3. Tool Overview
 4. Prerequisites
@@ -18,14 +18,13 @@ FalconOne is an Open Source solution deployed and updated on daily basis to assi
 
 ## 1. Functions Overview
 
-### 1.1. Actual:
-
 - [x] Target Accurate Location (via Google API)
 - [x] Target Public IP Address
-- [x] Target Device Model
-- [x] Target Browser Model and Version
-- [x] Target Operating System and Version
-- [x] Target User-Agent Details (e.g. Screen Resolution)
+- [x] Target Open Port
+- [x] Target Device Model and it Version
+- [x] Target Browser Model and its Version
+- [x] Target Operating System and its Version
+- [x] Target Cookies
 - [ ] Target Webcam Activation
 - [ ] Target Microphone Activation
 - [ ] Target Screen Screenshot
@@ -47,10 +46,10 @@ FalconOne is coded as explained below:
 
 ### 3.2. Main Style
 
-styles/
-- /footer.css
-- /join.css
-- /main.css
+- styles/
+  - /footer.css
+  - /join.css
+  - /main.css
 
 ### 3.3. PHP Functions
 
@@ -58,8 +57,8 @@ styles/
 
 ### 3.4. Loggers
 
-- info.txt (locations via Google API)
-- log.txt (Target IP address, device, browser, etc.)
+- info.txt (location)
+- log.txt (User-Agent)
 
 
 ## 4. Prerequisites

@@ -1,0 +1,26 @@
+/* Footer section */
+.footer {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    bottom: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: hsl(217.5, 4%, 60.8%);
+    font-size: 1rem;
+}
+
+.footer__attribution {
+    text-align: center;
+}
+
+.footer a {
+    color: rgb(107, 108, 110);
+    text-decoration: none;
+    transition: color 250ms ease-in;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+    color: var(--clr-cyan);
+}

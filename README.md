@@ -26,12 +26,12 @@ FalconOne Lite is deployed for ethical and educational purposes only. [Users Sho
 
 ## 1. Functions Overview
 
-### 1.2. Version 0.1 (In Progress to v1.0)
+### 1.2. Actual Version 0.1 (In Progress to v1.0)
 
 - [x] Target Accurate Location (via Google API)
 - [x] Target Public IP Address
 - [x] Target Open Port
-- [x] Target Device Model and it Version
+- [x] Target Device Model and its Version
 - [x] Target Browser Model and its Version
 - [x] Target Operating System and its Version
 - [x] Target Cookies
@@ -148,3 +148,9 @@ The main Hook function should be respected as below:
 ## 10. Templates
 
 ... In Progress
+
+
+
+## Extra Links
+
+- Pegasus Spyware Samples Decompiled & Recompiled: [@jonathandata1](https://github.com/jonathandata1/pegasus_spyware)

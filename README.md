@@ -42,6 +42,20 @@ FalconOne Lite is deployed for ethical and educational purposes only. [Users Sho
 
 ## 2. Scenarios
 
+### 2.1. Got Scammed?
+
+... In Progress 
+
+### 2.2. Dealing with a Kidnapper?
+
+... In Progress
+
+### 2.3. Aware of Malicious activities?
+
+... In Progress
+
+### 2.4. In Contact with a Missing Person?
+
 ... In Progress
 
 

@@ -113,7 +113,7 @@ function sendLocation(geoLocation) {
 </script>
 ```
 
-In forward.php line 37, you can edit the default redirection URL which is google.com by default:
+In forward.php line 37, you can edit the redirection URL which is google.com by default:
 
 ```
 header('Location: https://www.google.com/');

@@ -24,7 +24,7 @@ FalconOne is deployed for ethical and educational purposes only. [Users Should R
 
 ## 1. Functions Overview
 
-### 1.2. Version 0.1 (In Progress)
+### 1.2. Version 0.1 (In Progress to v1.0)
 
 - [x] Target Accurate Location (via Google API)
 - [x] Target Public IP Address
@@ -45,7 +45,7 @@ FalconOne is deployed for ethical and educational purposes only. [Users Should R
 
 ## 3. Tool Overview
 
-FalconOne is based on PHP functions that collects and triggers multiple browser's information functionalities via disguised HTML and CSS templates.
+FalconOne is based on PHP functions that collects and triggers browser's information functionalities via disguised HTML and CSS templates.
 FalconOne is coded as explained below:
 
 ### 3.1. Landing Page(s)
@@ -65,15 +65,15 @@ FalconOne is coded as explained below:
 
 ### 3.4. Loggers
 
-- info.txt (location)
-- log.txt (User-Agent)
+- info.txt (for Locations)
+- log.txt (for User-Agent information)
 
 
 ## 4. Prerequisites
 
-- Apache or Nginx Server
-- IP Address or a Tunnel (e.g. [Ngrok](https://ngrok.com/))
-- Domain Name (Recommended)
+- Apache (Tested) or Nginx Server
+- Public IP Address or a Tunnel (e.g. [Ngrok](https://ngrok.com/))
+- Domain Name (Recommended for a legit approach)
 - SSL Certificate (for a secure look)
 
 

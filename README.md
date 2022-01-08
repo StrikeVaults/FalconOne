@@ -140,7 +140,7 @@ The main Hook function should be respected as below:
 ## 9. Releases
 
 - January 9th, 2022: FalconOne v.0.1 (Minor Update)
-- January 8th, 2022: FalconOne v.0.1 (Major Upload)
+- January 8th, 2022: FalconOne v.0.1 (Major Upload): Initial Code Upload
 
 
 ## 10. Templates

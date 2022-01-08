@@ -144,7 +144,7 @@ Or else redirection on line 40 which is index.html by default:
 header('Location: index.html');
 ```
 
-The main Hook function should be respected as below:
+The main getLocation Hook function should be respected as below:
 
 ```html
 <a class="yourstyle" onclick="getLocation()">Button</a>

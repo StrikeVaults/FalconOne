@@ -24,6 +24,8 @@ FalconOne is deployed for ethical and educational purposes only. [Users Should R
 
 ## 1. Functions Overview
 
+### 1.2. Version 0.1 (In Progress)
+
 - [x] Target Accurate Location (via Google API)
 - [x] Target Public IP Address
 - [x] Target Open Port

@@ -119,6 +119,12 @@ In forward.php line 37, you can edit the redirection URL which is google.com by 
 header('Location: https://www.google.com/');
 ```
 
+Or else redirection on Line 40 which is index.html by default:
+
+```
+header('Location: index.html');
+```
+
 The main Hook function should be respected as below:
 
 ```

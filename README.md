@@ -97,7 +97,7 @@ FalconOne Lite is coded as explained below:
 
 - Upload the Zip file on your Web Server Public directory
 - Unzip the FolconOne Lite uploaded file
-- Customize index.html and CSS Styles files according to your Social Engineering Attack
+- Customize index.html and CSS Styles files according to your trapping scenario
 
 
 ## 6. Usage
@@ -153,8 +153,8 @@ The main Hook function should be respected as below:
 
 ## 8. User Terms
 
-- Users are not allowed to deploy FalconOne Lite on malicious operations
-- Users are not allowed to share FalconOne Lite on a commercial purpose or fix a price
+- Users are not allowed to deploy FalconOne Lite for malicious operations
+- Users are not allowed to sell FalconOne Lite
 - FalconOne Lite is FREE
 - FalconOne Lite can be edited according to Users needs
 

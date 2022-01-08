@@ -41,15 +41,15 @@ FalconOne Lite is deployed for ethical and educational purposes only. [Users Sho
 
 ### 1.2. Added Tools
 
-- [ ] Email Spoof (to share the trap URL from a trusted source)
-- [ ] SMS Spoof (to share the trap from a trusted source)
+- [ ] Email Spoof (to share the trapped landing page URL from a trusted email address)
+- [ ] SMS Spoof (to share the trapped URL from a trusted phone number - This will require an API Key)
 
 
 ## 2. Scenarios
 
 ### 2.1. Got Scammed?
 
-... In Progress 
+... In Progress
 
 ### 2.2. Dealing with a Kidnapper?
 

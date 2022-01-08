@@ -112,7 +112,7 @@ Once the Target interacts with the Landing page function(s), location(s) should 
 
 The following PHP Functions logic in index.html should not be changed:
 
-```
+```php
 <p id="errorMessage"></p>
 
 <script>
@@ -134,19 +134,19 @@ function sendLocation(geoLocation) {
 
 In forward.php line 37, you can edit the redirection URL which is google.com by default:
 
-```
+```php
 header('Location: https://www.google.com/');
 ```
 
 Or else redirection on line 40 which is index.html by default:
 
-```
+```php
 header('Location: index.html');
 ```
 
 The main Hook function should be respected as below:
 
-```
+```html
 <a class="yourstyle" onclick="getLocation()">Button</a>
 ```
 

@@ -172,19 +172,19 @@ The main getLocation Hook function should be respected as below:
 
 ## 10. Templates
 
-### 10.1. Geo-locate a Criminal
+### 10.1. Geo-locate the Target
 
 ... In Progress
 
-### 10.2. Take a Picture from a Criminal Webcam
+### 10.2. Take a Picture from the Target Webcam
 
 ... In Progress
 
-### 10.2. Get a Voice Record from a Criminal Microphone
+### 10.2. Get a Voice Record from the Target Microphone
 
 ... In Progress
 
-### 10.3. Take a Screenshot from a Criminal Device
+### 10.3. Take a Screenshot from the Target Device
 
 ... In Progress
 

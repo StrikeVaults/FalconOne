@@ -5,7 +5,7 @@ By using advanced tools, functions and stealth strategies, FalconOne's community
 
 GENERAL NOTICE:
 
-FalconOne is deployed for ethical and educational purposes only. [Users Should READ before starting the installation process.](#8-user-Terms)
+FalconOne is deployed for ethical and educational purposes only. [Users Should READ the Terms before starting the installation process.](#8-user-Terms)
 
 
 ## Contents
@@ -96,14 +96,20 @@ The PHP Functions in index.html and forward.php should not be changed or needs t
 
 ... In Progress
 
+
 ## 8. User Terms
 
-... In Progress
+- Users are not allowed to deploy FalconOne on malicious operations
+- Users are not allowed to share FalconOne on a commercial purpose or fix a price
+- FalconOne is FREE
+- FalconOne can be edited according to Users needs
+
 
 ## 9. Releases
 
 - January 9th, 2022: FalconOne v.0.1 (Minor Update)
 - January 8th, 2022: FalconOne v.0.1 (Major Upload)
+
 
 ## 10. Templates
 

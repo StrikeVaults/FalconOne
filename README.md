@@ -165,11 +165,11 @@ The main Hook function should be respected as below:
 
 ... In Progress
 
-### 10.3. Get a scrennshot of the Criminal Device
+### 10.3. Screenshot a Criminal Device
 
 ... In Progress
 
 
-## Extra Links
+## Extra Links for Fun
 
 - Pegasus Spyware Samples Decompiled & Recompiled: [@jonathandata1](https://github.com/jonathandata1/pegasus_spyware)

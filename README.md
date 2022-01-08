@@ -90,7 +90,7 @@ Once the Target interacts with the Landing page function(s), location(s) should 
 The PHP Functions should not be changed or/and needs to be added in new HTML pages.
 
 
-## 7. Cummnity
+## 7. Community
 
 ... In Progress
 

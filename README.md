@@ -80,8 +80,8 @@ FalconOne is coded as explained below:
 ## 5. Installation/Setup
 
 - Upload the Zip file on your Web Server Public directory
-- Unzip uploaded file
-- Customize index.html and Style according to your Social Engineering Attack
+- Unzip the FolconOne uploaded file
+- Customize index.html and CSS Styles files according to your Social Engineering Attack
 
 
 ## 6. Usage
@@ -89,7 +89,7 @@ FalconOne is coded as explained below:
 Once deployed, wait for the target to interact with the landing page functions such as buttons, links, images and popups.
 Once the Target interacts with the Landing page function(s), location(s) should be stored in info.txt and other information in log.txt.
 
-The PHP Functions should not be changed or/and needs to be added in new HTML pages.
+The PHP Functions in index.html and forward.php should not be changed or needs to be added in new HTML pages.
 
 
 ## 7. Community
@@ -102,7 +102,8 @@ The PHP Functions should not be changed or/and needs to be added in new HTML pag
 
 ## 9. Releases
 
-- January 8th, 2022: FalconOne v.0.1
+- January 9th, 2022: FalconOne v.0.1 (Minor Update)
+- January 8th, 2022: FalconOne v.0.1 (Major Upload)
 
 ## 10. Templates
 

@@ -179,7 +179,7 @@ The main Hook function should be respected as below:
 
 ... In Progress
 
-### 10.3. Screenshot a Criminal Device
+### 10.3. Take a Screenshot from a Criminal Device
 
 ... In Progress
 

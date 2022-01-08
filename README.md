@@ -1,11 +1,13 @@
-# FalconOne (v.0.1)
+# FalconOne (v.0.1) - Lite
 
-FalconOne is an Open Source solution deployed and updated on daily basis to help prevent terror and crime. 
-By using advanced tools, functions and stealth strategies, FalconOne's community is focused on making a friendly and fast solution for effective results.
+FalconOne Lite is an Open Source solution deployed and updated on daily basis to help prevent terror and crime. 
+By using advanced tools, functions and stealth strategies, FalconOne Lite community is focused on making a friendly and fast solution for effective results.
+
+For more information about the FalconOne Pro, please send an email to the Team at prochan@strikevaults.com.
 
 GENERAL NOTICE:
 
-FalconOne is deployed for ethical and educational purposes only. [Users Should READ the Terms before starting the installation process.](#8-user-Terms)
+FalconOne Lite is deployed for ethical and educational purposes only. [Users Should READ the Terms before starting the installation process.](#8-user-Terms)
 
 
 ## Contents
@@ -45,8 +47,8 @@ FalconOne is deployed for ethical and educational purposes only. [Users Should R
 
 ## 3. Tool Overview
 
-FalconOne is based on PHP functions that collects and triggers browser's information functionalities via disguised HTML and CSS templates.
-FalconOne is coded as explained below:
+FalconOne Lite is based on PHP functions that collects and triggers browser's information functionalities via disguised HTML and CSS templates.
+FalconOne Lite is coded as explained below:
 
 ### 3.1. Landing Page(s)
 
@@ -80,7 +82,7 @@ FalconOne is coded as explained below:
 ## 5. Installation/Setup
 
 - Upload the Zip file on your Web Server Public directory
-- Unzip the FolconOne uploaded file
+- Unzip the FolconOne Lite uploaded file
 - Customize index.html and CSS Styles files according to your Social Engineering Attack
 
 
@@ -131,16 +133,16 @@ The main Hook function should be respected as below:
 
 ## 8. User Terms
 
-- Users are not allowed to deploy FalconOne on malicious operations
-- Users are not allowed to share FalconOne on a commercial purpose or fix a price
-- FalconOne is FREE
-- FalconOne can be edited according to Users needs
+- Users are not allowed to deploy FalconOne Lite on malicious operations
+- Users are not allowed to share FalconOne Lite on a commercial purpose or fix a price
+- FalconOne Lite is FREE
+- FalconOne Lite can be edited according to Users needs
 
 
 ## 9. Releases
 
-- January 9th, 2022: FalconOne v.0.1 (Minor Update)
-- January 8th, 2022: FalconOne v.0.1 (Major Upload): Initial Code Upload
+- January 9th, 2022: FalconOne Lite v.0.1 (Minor Update)
+- January 8th, 2022: FalconOne Lite v.0.1 (Major Upload): Initial Code Upload
 
 
 ## 10. Templates

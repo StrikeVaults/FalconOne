@@ -1,3 +1,3 @@
-# CSS STYLES
+# CSS Styles and Structure
 
-This section can be customized according to the social engineering attack.
+This section can be customized according to the attack scenario.

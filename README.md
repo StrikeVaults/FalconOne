@@ -117,6 +117,12 @@ In forward.php line 37, you can edit the default redirection URL which is google
 header('Location: https://www.google.com/');
 ```
 
+The main Hook function should be respected as below:
+
+```
+<a class="yourstyle" onclick="getLocation()">Button</a>
+```
+
 
 ## 7. Community
 

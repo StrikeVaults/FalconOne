@@ -26,7 +26,7 @@ FalconOne Lite is deployed for ethical and educational purposes only. [Users Sho
 
 ## 1. Functions Overview
 
-### 1.2. Actual Version 0.1 (In Progress to v1.0)
+### 1.1. Actual Version 0.1 (In Progress to v1.0)
 
 - [x] Target Accurate Location (via Google API)
 - [x] Target Public IP Address
@@ -38,6 +38,11 @@ FalconOne Lite is deployed for ethical and educational purposes only. [Users Sho
 - [ ] Target Webcam Activation
 - [ ] Target Microphone Activation
 - [ ] Target Screen Screenshot
+
+### 1.2. Added Tools
+
+- [ ] Email Spoof (to share the trap URL from a trusted source)
+- [ ] SMS Spoof (to share the trap from a trusted source)
 
 
 ## 2. Scenarios

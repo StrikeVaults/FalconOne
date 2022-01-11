@@ -11,11 +11,12 @@
 FalconOne Lite is an Open Source solution deployed and updated on a daily basis to help prevent terror and crime globally.
 By using advanced tools, functions and stealth strategies, FalconOne community is focused on making a friendly and fast solution for effective results.
 
-FalconOne Lite can be used for the following purposes:
+<b>FalconOne can be used for the following purposes:</b>
 
 - Main Purpose: Locating and tracking victims or criminals (through social engineering and intelligence exercises using existing or customized templates)
 - Red Teaming and Penetration Testing
 - Web and Mobile development
+- Emergency
 - Educational and Researches
 
 For more information about the FalconOne Pro, please send an email to the Team at prochan@strikevaults.com.
@@ -44,7 +45,7 @@ FalconOne Lite is deployed for ethical and educational purposes only.
 
 ## 1. Functions Overview
 
-### 1.1. Actual Version 0.1 (In Progress to v1.0)
+### 1.1. Actual Version 0.2 (In Progress to v1.0)
 
 - [x] Target Accurate Location (via Google API)
 - [x] Target Public IP Address (info.txt)
@@ -67,21 +68,10 @@ FalconOne Lite is deployed for ethical and educational purposes only.
 
 ## 2. Scenarios
 
-### 2.1. Got Scammed?
-
-... In Progress
-
-### 2.2. Dealing with a Kidnapper?
-
-... In Progress
-
-### 2.3. Aware of Malicious activities?
-
-... In Progress
-
-### 2.4. In Contact with a Missing Person?
-
-... In Progress
+- Got Scammed?
+- Dealing with a Kidnapper?
+- Aware of Malicious activities?
+- In Contact with a Missing Person?
 
 
 ## 3. Tool Overview
@@ -108,7 +98,7 @@ FalconOne Lite is coded as explained below:
 
 - info.txt (for Locations)
 - log.txt (for Geolocated Target User-Agent information)
-- l.log (for Visitor's User-Agent information)
+- l.log (for Visitor's or Sharers User-Agent information)
 
 
 ## 4. Prerequisites

@@ -128,7 +128,7 @@ FalconOne Lite is coded as explained below:
 Once deployed, wait for the target to interact with the landing page functions such as buttons, links, images and popups.
 Once the Target interacts with the Landing page function(s), location(s) should be stored in info.txt and other information in log.txt.
 
-The tracking script should be kept between /head and body for activity tracking (l.log):
+The tracking script should be kept between head and body for activity tracking (l.log):
 
 ```php
 <?php

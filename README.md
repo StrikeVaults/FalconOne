@@ -1,3 +1,5 @@
+![FalconOne Logo](/FalconOne-logo-2022.png)
+
 # FalconOne (v.0.1) - Lite
 
 FalconOne Lite is an Open Source solution deployed and updated on a daily basis to help prevent terror and crime. 

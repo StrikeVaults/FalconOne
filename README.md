@@ -88,7 +88,6 @@ FalconOne Lite is coded as explained below:
 
 ### 3.1. Landing Page(s)
 
-- index.html (landing page) (REMOVED)
 - index.php (Main Landing page)
 
 ### 3.2. Main Style

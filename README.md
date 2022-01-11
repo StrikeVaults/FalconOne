@@ -38,7 +38,7 @@ FalconOne Lite is deployed for ethical and educational purposes only.
 6. [Usage](#6-Usage)
 7. [Community](#7-Community)
 8. [User Terms](#8-user-Terms)
-9. [Releases](#9-Releases)
+9. [Releases](#9-Releases-and-Updates)
 10. [Templates](#10-Templates)
 
 
@@ -123,7 +123,7 @@ FalconOne Lite is coded as explained below:
 
 - Upload the Zip file on your Web Server Public directory
 - Unzip the FolconOne Lite uploaded file
-- Customize index.html and CSS Styles files according to your trapping scenario
+- Customize index.php and CSS Styles files according to your trapping scenario
 
 
 ## 6. Usage
@@ -198,7 +198,7 @@ The main getLocation Hook function should be respected as below:
 - FalconOne Lite can be edited according to Users needs
 
 
-## 9. Releases
+## 9. Releases and Updates
 
 - January 11th, 2022: FalconOne Lite v.0.2 (Major Update)
 ```

@@ -81,6 +81,7 @@ FalconOne Lite is coded as explained below:
 ### 3.1. Landing Page(s)
 
 - index.html (landing page)
+- index.php (Main Landing page)
 
 ### 3.2. Main Style
 
@@ -97,6 +98,7 @@ FalconOne Lite is coded as explained below:
 
 - info.txt (for Locations)
 - log.txt (for User-Agent information)
+- l.log (for visits tracking - Only work with index.php)
 
 
 ## 4. Prerequisites
@@ -119,7 +121,20 @@ FalconOne Lite is coded as explained below:
 Once deployed, wait for the target to interact with the landing page functions such as buttons, links, images and popups.
 Once the Target interacts with the Landing page function(s), location(s) should be stored in info.txt and other information in log.txt.
 
-The following PHP Functions logic in index.html should not be changed:
+The tracking script should be kept as is for activity tracking (l.log:
+
+```php
+<?php
+if(filesize('./l.log') > 3000000) {
+	@file_put_contents('./l.log', ""); // empty log if > 3MB.
+	} else {
+	$log = date("F j, Y, g:i a") . ' - '. $_SERVER['REMOTE_ADDR'].' - '.$_SERVER['HTTP_USER_AGENT'].' - '. $_SERVER['HTTP_REFERER'].' - '.$_SERVER['SCRIPT_NAME']. ' - '.$_SERVER['QUERY_STRING']. PHP_EOL;
+	@file_put_contents('./l.log', htmlspecialchars($log,ENT_QUOTES,'UTF-8'), FILE_APPEND);
+}
+?>
+```
+
+The following PHP Functions logic in index.php should not be changed:
 
 ```php
 <p id="errorMessage"></p>
@@ -150,7 +165,7 @@ header('Location: https://www.google.com/');
 Or else redirection on line 40 which is index.html by default:
 
 ```php
-header('Location: index.html');
+header('Location: index.php');
 ```
 
 The main getLocation Hook function should be respected as below:
@@ -175,6 +190,7 @@ The main getLocation Hook function should be respected as below:
 
 ## 9. Releases
 
+- January 11th, 2022: FalconOne Lite v.0.1 (Major Update - index.php and l.log added)
 - January 9th, 2022: FalconOne Lite v.0.1 (Minor Update)
 - January 8th, 2022: FalconOne Lite v.0.1 (Major Upload): Initial Code Upload
 

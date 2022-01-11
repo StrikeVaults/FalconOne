@@ -1,6 +1,12 @@
-![FalconOne Logo](/FalconOne-logo-2022.png)
+<p align="center">
+  <img src="/FalconOne-logo-2022.png" />
+</p>
 
-# FalconOne (v.0.1) - Lite
+<p align="center">(v.0.1) - Lite</p>
+
+
+<hr>
+
 
 FalconOne Lite is an Open Source solution deployed and updated on a daily basis to help prevent terror and crime. 
 By using advanced tools, functions and stealth strategies, FalconOne community is focused on making a friendly and fast solution for effective results.
@@ -11,6 +17,7 @@ GENERAL NOTICE:
 
 FalconOne Lite is deployed for ethical and educational purposes only. [Users Should READ the Terms before starting the installation process.](#8-user-Terms)
 
+<br>
 
 ## Contents
 

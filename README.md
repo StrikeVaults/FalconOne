@@ -202,7 +202,8 @@ The main getLocation Hook function should be respected as below:
 
 - January 11th, 2022: FalconOne Lite v.0.2 (Major Update)
 ```
-- Added index.php and l.log added
+- Added index.php
+- Added l.log
 - index.html Removed
 ```
 

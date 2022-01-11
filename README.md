@@ -2,7 +2,7 @@
   <img src="/FalconOne-logo-2022.png" />
 </p>
 
-<p align="center">(v.0.1) - Lite</p>
+<p align="center">(v.0.2) - Lite</p>
 
 
 <hr>
@@ -54,7 +54,7 @@ FalconOne Lite is deployed for ethical and educational purposes only.
 - [x] Target Operating System and its Version (log.txt)
 - [x] Target Cookies (log.txt)
 - [x] Visitors User-Agent Information (l.log)
-- [x] Sharing Cycle User-Agent Information. This works with WhatsApp, Telegram and other social networks. (Once the Meta-Description is visible on Target devices and shared, collected User-Agent information are logged in l.log)
+- [x] Sharing Cycle User-Agent Information collection. This works with WhatsApp, Telegram and other social networks. (Once the Meta-Description is visible on Target/sharer devices and finally shared, sharer collected User-Agent information are logged in l.log)
 - [ ] Target Webcam Activation (In progress)
 - [ ] Target Microphone Activation (In progress)
 - [ ] Target Screen Screenshot (In progress)
@@ -200,7 +200,12 @@ The main getLocation Hook function should be respected as below:
 
 ## 9. Releases
 
-- January 11th, 2022: FalconOne Lite v.0.1 (Major Update - index.php and l.log added)
+- January 11th, 2022: FalconOne Lite v.0.2 (Major Update)
+```
+- Added index.php and l.log added
+- index.html Removed
+```
+
 - January 9th, 2022: FalconOne Lite v.0.1 (Minor Update)
 - January 8th, 2022: FalconOne Lite v.0.1 (Major Upload): Initial Code Upload
 

@@ -38,20 +38,21 @@ FalconOne Lite is deployed for ethical and educational purposes only. [Users Sho
 ### 1.1. Actual Version 0.1 (In Progress to v1.0)
 
 - [x] Target Accurate Location (via Google API)
-- [x] Target Public IP Address
-- [x] Target Open Port
-- [x] Target Device Model and its Version
-- [x] Target Browser Model and its Version
-- [x] Target Operating System and its Version
-- [x] Target Cookies
-- [ ] Target Webcam Activation
-- [ ] Target Microphone Activation
-- [ ] Target Screen Screenshot
+- [x] Target Public IP Address (info.txt)
+- [x] Target Open Port (log.txt)
+- [x] Target Device Model and its Version (log.txt)
+- [x] Target Browser Model and its Version (log.txt)
+- [x] Target Operating System and its Version (log.txt)
+- [x] Target Cookies (log.txt)
+- [x] Visitors Uer-Agent Information (l.log)
+- [ ] Target Webcam Activation (In progress)
+- [ ] Target Microphone Activation (In progress)
+- [ ] Target Screen Screenshot (In progress)
 
-### 1.2. Added Tools
+### 1.2. Added Tools (Roadmap)
 
-- [ ] Email Spoof (to share the trapped landing page URL from a trusted email address)
-- [ ] SMS Spoof (to share the trapped URL from a trusted phone number - This will require an API Key)
+- [ ] Email Spoof (to share the trapped landing page URL from a trusted email address) (In Progress)
+- [ ] SMS Spoof (to share the trapped URL from a trusted phone number - This will require an API Key) (In Progress)
 
 
 ## 2. Scenarios
@@ -94,11 +95,11 @@ FalconOne Lite is coded as explained below:
 
 - forward.php
 
-### 3.4. Loggers
+### 3.4. Logs
 
 - info.txt (for Locations)
-- log.txt (for User-Agent information)
-- l.log (for visits tracking - Only work with index.php)
+- log.txt (for Geolocated Target User-Agent information)
+- l.log (for Visitor's User-Agent information)
 
 
 ## 4. Prerequisites

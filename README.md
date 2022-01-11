@@ -194,3 +194,4 @@ The main getLocation Hook function should be respected as below:
 ## Extra Links for Fun
 
 - Pegasus Spyware Samples Decompiled & Recompiled: [@jonathandata1](https://github.com/jonathandata1/pegasus_spyware)
+- OSINT Tools Collections: [@cipher387](https://github.com/cipher387/osint_stuff_tool_collection)

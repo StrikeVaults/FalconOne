@@ -13,22 +13,24 @@ By using advanced tools, functions and stealth strategies, FalconOne community i
 
 FalconOne Lite can be used for the following purposes:
 
-- Locating and tracking criminals (through social engineering and intelligence exercises using existing or customized templates)
+- Main Purpose: Locating and tracking victims or criminals (through social engineering and intelligence exercises using existing or customized templates)
 - Red Teaming and Penetration Testing
 - Web and Mobile development
 - Educational and Researches
 
 For more information about the FalconOne Pro, please send an email to the Team at prochan@strikevaults.com.
 
-GENERAL NOTICE:
+<b>GENERAL NOTICE:</b>
 
-FalconOne Lite is deployed for ethical and educational purposes only. [Users Should READ the Terms before starting the installation process.](#8-user-Terms)
+FalconOne Lite is deployed for ethical and educational purposes only. 
+
+[Users Should READ the Terms before starting the installation process.](#8-user-Terms)
 
 <br>
 
 ## Contents
 
-1. [Functions Overview](#1-Functions-Overview)
+1. [Features](#1-Features)
 2. [Scenarios](#2-Scenarios)
 3. [Tool Overview](#3-Tool-Overview)
 4. [Prerequisites](#4-Prerequisites)
@@ -51,7 +53,8 @@ FalconOne Lite is deployed for ethical and educational purposes only. [Users Sho
 - [x] Target Browser Model and its Version (log.txt)
 - [x] Target Operating System and its Version (log.txt)
 - [x] Target Cookies (log.txt)
-- [x] Visitors Uer-Agent Information (l.log)
+- [x] Visitors User-Agent Information (l.log)
+- [x] Sharing Cycle User-Agent Information. This works with WhatsApp, Telegram and other social networks. (Once the Meta-Description is visible on Target devices and shared, collected User-Agent information are logged in l.log)
 - [ ] Target Webcam Activation (In progress)
 - [ ] Target Microphone Activation (In progress)
 - [ ] Target Screen Screenshot (In progress)

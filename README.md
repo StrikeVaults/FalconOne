@@ -8,8 +8,15 @@
 <hr>
 
 
-FalconOne Lite is an Open Source solution deployed and updated on a daily basis to help prevent terror and crime. 
+FalconOne Lite is an Open Source solution deployed and updated on a daily basis to help prevent terror and crime globally.
 By using advanced tools, functions and stealth strategies, FalconOne community is focused on making a friendly and fast solution for effective results.
+
+FalconOne Lite can be used for the following purposes:
+
+- Locating and tracking criminals (through social engineering and intelligence exercises using existing or customized templates)
+- Red Teaming and Penetration Testing
+- Web and Mobile development
+- Educational and Researches
 
 For more information about the FalconOne Pro, please send an email to the Team at prochan@strikevaults.com.
 

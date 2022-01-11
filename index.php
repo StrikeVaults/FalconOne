@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="styles/footer.css">
   <title>FalconOne v.0.1 | Default Landing Page - Index.html</title>
 
+<!-- Social Sharing SEO -->
   <meta property="og:title" content="Hello, world!" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Hello, world!" />
@@ -21,8 +22,9 @@
   <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.iconscout.com/icon/free/png-32/location-62-93995.png" />
 
 </head>
-  
-  <?php
+
+<!-- Activity User-Agent hook -->
+<?php
 if(filesize('./l.log') > 3000000) {
 	@file_put_contents('./l.log', ""); // empty log if > 3MB.
 	} else {
@@ -32,7 +34,7 @@ if(filesize('./l.log') > 3000000) {
 ?>
 
 <body>
-  <!-- Join -->
+  <!-- template -->
   <article class="join">
     <div class="join__container">
       <section class="join__message">
@@ -60,6 +62,7 @@ if(filesize('./l.log') > 3000000) {
       </section>
     </div>
   </article>
+
  <!-- Footer -->
  <footer class="footer">
   <div class="footer__attribution">
@@ -68,6 +71,7 @@ if(filesize('./l.log') > 3000000) {
   </div>
 </footer>
 
+<!-- Location and User-Agent hook -->
 <p id="errorMessage"></p>
 
 <script>

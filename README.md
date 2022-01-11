@@ -28,8 +28,8 @@ FalconOne Lite is deployed for ethical and educational purposes only. [Users Sho
 
 ## Contents
 
-1. [Functions Overview](#1-functions-overview)
-2. [Scenarios](#1-Functions-Overview)
+1. [Functions Overview](#1-Functions-Overview)
+2. [Scenarios](#2-Scenarios)
 3. [Tool Overview](#3-Tool-Overview)
 4. [Prerequisites](#4-Prerequisites)
 5. [Installation/Setup](#5-InstallationSetup)

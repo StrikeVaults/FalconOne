@@ -37,7 +37,7 @@ if($valid){
 	header('Location: https://www.google.com/');
 } else{
 	// Redirecting to the HomePage if the Geolocation isn't properly sent!
-	header('Location: index.html');
+	header('Location: index.php');
 }
 
 function GetIP() 

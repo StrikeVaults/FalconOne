@@ -41,9 +41,10 @@ FalconOne Lite is deployed for ethical and educational purposes only.
 8. [User Terms](#8-user-Terms)
 9. [Releases](#9-Releases-and-Updates)
 10. [Templates](#10-Templates)
+[Extra Links for Reconnaissance Purposes](#Extra-Links-for-Reconnaissance-Purposes)
 
 
-## 1. Functions Overview
+## 1. Features
 
 ### 1.1. Actual Version 0.2 (In Progress to v1.0)
 
@@ -60,7 +61,7 @@ FalconOne Lite is deployed for ethical and educational purposes only.
 - [ ] Target Microphone Activation (In progress)
 - [ ] Target Screen Screenshot (In progress)
 
-### 1.2. Added Tools (Roadmap)
+### 1.2. Additional Tools (Roadmap)
 
 - [ ] Email Spoof (to share the trapped landing page URL from a trusted email address) (In Progress)
 - [ ] SMS Spoof (to share the trapped URL from a trusted phone number - This will require an API Key) (In Progress)
@@ -220,7 +221,8 @@ The main getLocation Hook function should be respected as below:
 ... In Progress
 
 
-## Extra Links for Fun
+
+## Extra Links for Reconnaissance Purposes
 
 - Pegasus Spyware Samples Decompiled & Recompiled: [@jonathandata1](https://github.com/jonathandata1/pegasus_spyware)
 - OSINT Tools Collections: [@cipher387](https://github.com/cipher387/osint_stuff_tool_collection)

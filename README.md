@@ -63,6 +63,7 @@ FalconOne Lite is deployed for ethical and educational purposes only.
 - [ ] Target Webcam Activation (In progress)
 - [ ] Target Microphone Activation (In progress)
 - [ ] Target Screen Screenshot (In progress)
+- [ ] Target Credentials Stealer (In Progress)
 
 ### 1.2. Additional Tools (Roadmap)
 

@@ -51,8 +51,8 @@ FalconOne Lite is deployed for ethical and educational purposes only.
 
 ### 1.1. Actual Version 0.2 (In Progress to v1.0)
 
-- [x] Target Accurate Location (via Google API)
-- [x] Target Public IP Address (info.txt)
+- [x] Target Accurate Location (via Google API logged in info.txt)
+- [x] Target Public IP Address (log.txt)
 - [x] Target Open Port (log.txt)
 - [x] Target Device Model and its Version (log.txt)
 - [x] Target Browser Model and its Version (log.txt)

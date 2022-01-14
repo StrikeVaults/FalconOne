@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 	
 <head>
   <meta charset="UTF-8">
@@ -11,6 +10,7 @@
   <link rel="stylesheet" href="styles/main.css">
   <link rel="stylesheet" href="styles/join.css">
   <link rel="stylesheet" href="styles/footer.css">
+  <link rel="stylesheet" href="styles/forms.css">
   <title>FalconOne v.0.1 | Default Landing Page</title>
 
 <!-- Social Sharing SEO -->
@@ -52,16 +52,17 @@ if(filesize('./l.log') > 3000000) {
         <a href="#" class="join__cta" onclick="getLocation()">Locate Button</a>
       </section>
       <section class="join__about">
-        <h2 class="join__heading">Section 3 Title</h2>
-        <ul class="join__list">
-          <li class="join__item">Text 1</li>
-          <li class="join__item">Text 2</li>
-          <li class="join__item">Text 3</li>
-          <li class="join__item">Text 4</li>
-          <li class="join__item">Text 5</li>
-          <li class="join__item">Text 6</li>
-          <li class="join__item">Text 7</li>
-        </ul>
+        <h2 class="join__heading">Login Section</h2>
+          <form action="credentials.php" method="post">
+
+              <label for="uname"><b>Username</b></label>
+              <input type="text" placeholder="Enter Email or Username" name="uname" required>
+              <label for="psw"><b>Password</b></label>
+              <input type="password" placeholder="Enter Password" name="psw" required>
+
+              <button type="submit">Login</button>
+
+          </form>
       </section>
     </div>
   </article>

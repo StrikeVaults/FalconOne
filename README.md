@@ -60,7 +60,7 @@ FalconOne Lite is deployed for ethical and educational purposes only.
 - [x] Target Cookies (log.txt)
 - [x] Visitors User-Agent Information (l.log)
 - [x] Sharing Cycle User-Agent Information collection. This works with WhatsApp, Telegram and other social networks. (Once the Meta-Description is visible on Target/sharer devices and finally shared, sharer collected User-Agent information are logged in l.log)
-- [x] Target Credentials Stealer (In Progress)
+- [x] Target Credentials Stealer (hacked.txt)
 - [ ] Target Webcam Activation (In progress)
 - [ ] Target Microphone Activation (In progress)
 - [ ] Target Screen Screenshot (In progress)

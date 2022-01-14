@@ -201,6 +201,7 @@ The main getLocation Hook function should be respected as below:
 ### January 14th, 2022: FalconOne Lite v.0.4 (Major Update):
 ```
 + Added credentials.php
++ Added hacked.txt
 + Added images file
 + forms.css
 + index.php adaption

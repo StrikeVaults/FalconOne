@@ -2,7 +2,7 @@
   <img src="/FalconOne-logo-2022.png" />
 </p>
 
-<p align="center">(v.0.2) - Lite</p>
+<p align="center">(v.0.4) - Lite</p>
 
 <hr>
 
@@ -49,7 +49,7 @@ FalconOne Lite is deployed for ethical and educational purposes only.
 
 ## 1. Features
 
-### 1.1. Actual Version 0.2 (In Progress to v1.0)
+### 1.1. Actual Version 0.4 (In Progress to v1.0)
 
 - [x] Target Accurate Location (via Google API logged in info.txt)
 - [x] Target Public IP Address (log.txt)
@@ -60,10 +60,10 @@ FalconOne Lite is deployed for ethical and educational purposes only.
 - [x] Target Cookies (log.txt)
 - [x] Visitors User-Agent Information (l.log)
 - [x] Sharing Cycle User-Agent Information collection. This works with WhatsApp, Telegram and other social networks. (Once the Meta-Description is visible on Target/sharer devices and finally shared, sharer collected User-Agent information are logged in l.log)
+- [x] Target Credentials Stealer (In Progress)
 - [ ] Target Webcam Activation (In progress)
 - [ ] Target Microphone Activation (In progress)
 - [ ] Target Screen Screenshot (In progress)
-- [ ] Target Credentials Stealer (In Progress)
 
 ### 1.2. Additional Tools (Roadmap)
 
@@ -94,16 +94,19 @@ FalconOne Lite is coded as explained below:
   - /footer.css
   - /join.css
   - /main.css
+  - /forms.css
 
 ### 3.3. PHP Functions
 
 - forward.php
+- credentials.php
 
 ### 3.4. Logs
 
 - info.txt (for Locations)
 - log.txt (for Geolocated Target User-Agent information)
 - l.log (for Visitor's or Sharers User-Agent information)
+- hacked.txt (for Credentials Username/Password)
 
 
 ## 4. Prerequisites
@@ -194,6 +197,14 @@ The main getLocation Hook function should be respected as below:
 
 
 ## 9. Releases and Updates
+
+### January 14th, 2022: FalconOne Lite v.0.4 (Major Update):
+```
++ Added credentials.php
++ Added images file
++ forms.css
++ index.php adaption
+```
 
 ### January 11th, 2022: FalconOne Lite v.0.2 (Major Update):
 ```

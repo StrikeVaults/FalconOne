@@ -67,7 +67,7 @@ FalconOne Lite is deployed for ethical and educational purposes only.
 
 ### 1.2. Additional Tools (Roadmap)
 
-- [x] Spoofers (Extension in Progress) please visit repository of [SpoofDeck](https://github.com/StrikeVaults/SpoofDeck)
+- [x] Spoofers (Extension in Progress) please visit the [SpoofDeck](https://github.com/StrikeVaults/SpoofDeck) repository to get started.
 
 
 ## 2. Scenarios

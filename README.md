@@ -67,8 +67,7 @@ FalconOne Lite is deployed for ethical and educational purposes only.
 
 ### 1.2. Additional Tools (Roadmap)
 
-- [ ] Email Spoof (to share the trapped landing page URL from a trusted email address) (In Progress)
-- [ ] SMS Spoof (to share the trapped URL from a trusted phone number - This will require an API Key) (In Progress)
+- [x] Spoofers (Extension in Progress) please visit repository of [SpoofDeck](https://github.com/StrikeVaults/SpoofDeck)
 
 
 ## 2. Scenarios
